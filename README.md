@@ -37,4 +37,4 @@ Sample input:
 Sample output:
 20 21 22 22 23
 
-![image](https://github.com/berkecemoktem/DSA-Graphs-ParkingSlotProblem/assets/75270752/1bce5d42-da86-4e89-8e86-919481b3fc3b)
+![hw3_drawing](https://github.com/berkecemoktem/DSA-Graphs-ParkingSlotProblem/assets/75270752/19c40e34-1f9e-4802-a5b1-838052e0e6c0)
