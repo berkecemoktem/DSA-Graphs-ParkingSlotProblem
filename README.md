@@ -26,15 +26,7 @@ second line, we have 5 parking slots with their capacity which are 1, 2, 1, 1, a
 lines, the distance between these parking slots is given and the number of vehicles will be entering
 the parking facility is 5. You need to give the total cost each car enters the facility.
 
-Sample input: 
-5 4 20
-1 2 1 1 2
-1 2 2
-4 5 1
-3 4 2
-1 3 1
-5
-Sample output:
-20 21 22 22 23
+![hw3](https://github.com/berkecemoktem/DSA-Graphs-ParkingSlotProblem/assets/75270752/47e08ace-da2d-4cc3-8363-87db906ccc2e)
+
 
 ![hw3_drawing](https://github.com/berkecemoktem/DSA-Graphs-ParkingSlotProblem/assets/75270752/19c40e34-1f9e-4802-a5b1-838052e0e6c0)
